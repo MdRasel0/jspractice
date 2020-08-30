@@ -1,6 +1,6 @@
 function textChange(){
-	document.getElementById('p').innerHTML = "Text Changed";
+	document.getElementById('p').innerHTML = "Welcome to JS world";
 }
 function textChange2(){
-	document.getElementById('p').innerHTML = "Lorem ipsum dolor, sit amet.";
+	document.getElementById('p').innerHTML = "We will take you to the world of JS";
 }
